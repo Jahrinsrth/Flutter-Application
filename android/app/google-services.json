@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "961323529871",
+    "firebase_url": "https://ctse-sms-app.firebaseio.com",
+    "project_id": "ctse-sms-app",
+    "storage_bucket": "ctse-sms-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961323529871:android:7a485b095df9d15540a2fa",
+        "android_client_info": {
+          "package_name": "com.fluttersms.ctse_sms_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "961323529871-r1ph2nfabufi8o987qtju3597bgh4ul5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSKHpNiMMgEb37RfpqBy4B0ckkryutwyo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "961323529871-r1ph2nfabufi8o987qtju3597bgh4ul5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
